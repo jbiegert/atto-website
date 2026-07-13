@@ -1,0 +1,42 @@
+{
+  "short": "Jens Biegert is ICREA Professor of Attoscience and Ultrafast Optics at ICFO. A pioneer of mid-infrared photonics and attosecond soft X-ray science, his work has produced new ways to image chemical reactions, track electron dynamics in molecules, and observe carrier motion in quantum and condensed-matter systems. He is a Fellow of the Studienstiftung des deutschen Volkes, a Fellow of Optica and of the APS, and an elected member of the Academia Europaea.",
+  "blocks": [
+    {
+      "h": "Background",
+      "p": [
+        "He received his PhD in physics from the Technische Universität München, based on research conducted at the University of New Mexico under the supervision of Jean-Claude Diels. Following his doctorate, he pursued his habilitation at ETH Zürich, where he established a research programme in attosecond science.",
+        "His work focuses on the generation, control, and application of ultrashort laser pulses to probe and manipulate matter on electronic and atomic timescales."
+      ]
+    },
+    {
+      "h": "Research",
+      "p": [
+        "Since joining ICFO, Biegert has been a pioneer of mid-infrared photonics and attosecond soft X-ray science, driving advances in laser technology and ultrafast measurement techniques.",
+        "His research has enabled new approaches to imaging chemical reactions, tracking electron dynamics in molecules, and observing carrier motion in quantum and condensed-matter systems. He has also made key contributions to laser-induced single-electron diffraction and attoscience, providing tools for resolving quantum dynamics with atomic spatial and attosecond temporal resolution."
+      ]
+    },
+    {
+      "h": "Leadership and service",
+      "p": [
+        "He currently coordinates a European Commission FET consortium, participates in two further FET projects, and is a Guest Professor at the Fritz Haber Institute of the Max Planck Society in Berlin.",
+        "He served on Optica's Board of Directors and as Chair of its Meetings Council, and contributed to its Strategic Planning and Finance Councils. He served as Executive Director of Laserlab-Europe, uniting 46 major laser infrastructures across 22 European countries, and as a Board Member of ARIE, representing large-scale analytical research infrastructures across Europe on behalf of some 40,000 researchers."
+      ]
+    }
+  ],
+  "awards": [
+    "C.E.K. Mees Medal",
+    "Allen Prize",
+    "Humboldt Foundation Bessel Prize",
+    "ERC Advanced Grant",
+    "ERC Proof of Concept Grants",
+    "Marie Curie Fellowship",
+    "DAAD Fellowship",
+    "Thousand Talents Scholarship of China"
+  ],
+  "fellowships": [
+    "Fellow, Studienstiftung des deutschen Volkes",
+    "Fellow, Optica",
+    "Fellow, American Physical Society",
+    "Elected Member, Academia Europaea"
+  ]
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "European Research Council",
+    "logo": "img/funders/erc.png"
+  },
+  {
+    "name": "European Commission",
+    "logo": "img/funders/ec.png"
+  },
+  {
+    "name": "Ministerio de Ciencia e Innovación",
+    "logo": "img/funders/micinn.png"
+  },
+  {
+    "name": "Generalitat de Catalunya",
+    "logo": "img/funders/generalitat.png"
+  },
+  {
+    "name": "AGAUR",
+    "logo": "img/funders/agaur.png"
+  },
+  {
+    "name": "Fundació Privada Cellex",
+    "logo": "img/funders/cellex.png"
+  },
+  {
+    "name": "COST",
+    "logo": "img/funders/cost.png"
+  },
+  {
+    "name": "Laserlab-Europe",
+    "logo": "img/funders/laserlab.png"
+  },
+  {
+    "name": "LASERS4EU",
+    "logo": "img/funders/lasers4eu.png"
+  },
+  {
+    "name": "LaserLab Spain",
+    "logo": "img/funders/laserlabspain.png"
+  },
+  {
+    "name": "Marie Skłodowska-Curie Actions",
+    "logo": "img/funders/mariecurie.png"
+  },
+  {
+    "name": "Severo Ochoa",
+    "logo": "img/funders/severoochoa.png"
+  },
+  {
+    "name": "European Science Foundation",
+    "logo": "img/funders/esf.png"
+  },
+  {
+    "name": "Alexander von Humboldt Stiftung",
+    "logo": "img/funders/humboldt.png"
+  },
+  {
+    "name": "US Army Research Office",
+    "logo": "img/funders/army.png"
+  },
+  {
+    "name": "Max-Planck-Gesellschaft",
+    "logo": "img/funders/maxplanck.png"
+  }
+]

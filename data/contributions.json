@@ -1,0 +1,155 @@
+[
+  {
+    "capability": "manybody",
+    "title": "Attosecond X-ray transient absorption in condensed matter",
+    "text": "A core-state-resolved Bloch model establishing the theoretical basis for attosecond X-ray absorption in solids.",
+    "image": "img/contrib/axas-theory.jpg",
+    "citations": [
+      "A. Picon, L. Plaja, J. Biegert, “Attosecond x-ray transient absorption in condensed-matter: A core-state-resolved Bloch Model”, N. J. Phys. 21, 043029 (2019)."
+    ]
+  },
+  {
+    "capability": "manybody",
+    "title": "Energy conversion pathways between light, carriers and lattice",
+    "text": "Attosecond core-level spectroscopy resolves, in real time, how energy flows from light into carriers and then into specific lattice modes of a solid.",
+    "image": "img/contrib/energy-conversion-phonon.jpg",
+    "citations": [
+      "T. P. H. Sidiropoulos, N. Di Palo, D. E. Rivas, S. Severino, M. Reduzzi, et al., J. Biegert, “Probing the Energy Conversion Pathways between Light, Carriers, and Lattice in Real Time with Attosecond Core-Level Spectroscopy”, Phys. Rev. X 11, 041060 (2021)."
+    ]
+  },
+  {
+    "capability": "manybody",
+    "title": "Enhanced quantum conductivity and many-body effects",
+    "text": "Attosecond X-ray spectroscopy of a strongly driven semi-metallic light-matter hybrid, quantifying correlated many-body response beyond a single-particle picture.",
+    "image": "img/contrib/graphite-manybody.jpg",
+    "citations": [
+      "T. P. H. Sidiropoulos, N. Di Palo, D. E. Rivas, A. Summers, S. Severino, M. Reduzzi, J. Biegert, “Enhanced quantum conductivity and many-body effects in a semi-metallic light-matter hybrid”, Nature Comm. 14, 7407 (2023)."
+    ]
+  },
+  {
+    "capability": "matter",
+    "title": "Ultrafast nonlinear response of Dirac fermions in graphene",
+    "text": "Petahertz-scale optical response in graphene, revealing how Dirac fermions react to a driving field on sub-cycle timescales.",
+    "image": "img/contrib/graphene-dirac.jpg",
+    "citations": [
+      "M. Baudisch, A. Marini, J. D. Cox, T. Zhu, F. Silva, S. Teichmann, M. Massicotte, F. Koppens, L. S. Levitov, F. J. García de Abajo, J. Biegert, “Ultrafast nonlinear optical response of Dirac fermions in graphene”, Nature Comm. 9, 1018 (2018)."
+    ]
+  },
+  {
+    "capability": "matter",
+    "title": "High-harmonic spectroscopy of a high-Tc superconductor",
+    "text": "High-harmonic spectroscopy distinguishes the electronic phases of YBCO across its quantum phase transition — strong-field optics as a probe of correlated matter.",
+    "image": "img/contrib/sci_ybco.jpg",
+    "citations": [
+      "J. Alcala, U. Bhattacharya, J. Biegert, M. Ciappina, U. Elu, T. Graß, P. T. Grochowski, M. Lewenstein, A. Palau, T. P. H. Sidiropoulos, T. Steinle, I. Tyulnev, “High harmonic spectroscopy of quantum phase transitions in a high-Tc superconductor”, Proc. Natl. Acad. Sci. 119, 2207766119 (2022)."
+    ]
+  },
+  {
+    "capability": "matter",
+    "title": "Controlling valley polarization through topology",
+    "text": "Valley polarization normally requires a crystal that lacks inversion symmetry — ruling out bulk, centrosymmetric materials. A polarization-shaped light field breaks that symmetry on its own, steering valley and topology in bulk MoS₂ where it should not have been possible: light shaping topology, not just probing it.",
+    "image": "img/contrib/valley-trefoil.jpg",
+    "citations": [
+      "I. Tyulnev, A. Jiménez-Galán, J. Poborska, L. Vamos, R. F. Silva, P. St. J. Russell, F. Tani, O. Smirnova, M. Ivanov, J. Biegert, “Valleytronics in bulk MoS2 by optical control of parity and time symmetries”, Nature 628, 746 (2024)."
+    ]
+  },
+  {
+    "capability": "matter",
+    "title": "The quantum-optical nature of high-harmonic generation",
+    "text": "Experimental evidence that harmonic emission carries photon-statistical information beyond the coherent field — the observation underlying harmonic photon-statistics spectroscopy.",
+    "image": "img/contrib/g2-hhg.jpg",
+    "citations": [
+      "D. Theidel, V. Shiriaeva, R. Sondenheimer, M. Froidevaux, V. Severin, A. Merdji-Larue, P. Mosel, S. Fröhlich, K.-A. Weber, M. Kovacev, J. Biegert, H. Merdji, “Evidence of the Quantum Optical Nature of High-Harmonic Generation”, PRX Quantum 5, 040319 (2024)."
+    ]
+  },
+  {
+    "capability": "molecules",
+    "title": "Attosecond angular streaking — the attoclock",
+    "text": "A route to attosecond-resolution measurement of electron wavepackets that requires no attosecond X-ray pulse at all.",
+    "image": "img/contrib/attoclock.jpg",
+    "citations": [
+      "P. Eckle, M. P. Smolarski, P. Schlup, J. Biegert, A. Staudte, M. Schöffler, H. G. Muller, R. Dörner, U. Keller, “Attosecond angular streaking”, Nature Phys. 4, 565 (2008)."
+    ]
+  },
+  {
+    "capability": "molecules",
+    "title": "Imaging aligned polyatomic molecules with LIED",
+    "text": "Laser-induced electron diffraction applied to aligned polyatomic molecules — self-imaging of molecular structure using the molecule's own electrons.",
+    "image": "img/contrib/lied-coltrims.jpg",
+    "citations": [
+      "M. Pullen, B. Wolter, A.-T. Le, M. Baudisch, M. Hemmer, A. Senftleben, C. D. Schröter, J. Ullrich, R. Moshammer, C.-D. Lin, J. Biegert, “Imaging aligned polyatomic molecules with laser-induced electron diffraction”, Nature Commun. 6, 7262 (2015)."
+    ]
+  },
+  {
+    "capability": "molecules",
+    "title": "The first molecular selfie",
+    "text": "A molecule imaged using its own electrons — laser-induced electron diffraction captured di-ionized acetylene breaking apart, resolving the atoms and their proton motion at 600 attosecond and 7 picometre resolution, at the limit of what physics allows.",
+    "image": "img/contrib/selfie-mcf.jpg",
+    "citations": [
+      "B. Wolter, M. G. Pullen, A.-T. Le, M. Baudisch, K. Doblhoff-Dier, et al., J. Biegert, “Ultrafast electron diffraction imaging of bond breaking in di-ionized acetylene”, Science 354, 308 (2016)."
+    ]
+  },
+  {
+    "capability": "molecules",
+    "title": "Electronic and nuclear dynamics of molecular ring opening",
+    "text": "Attosecond core-level absorption disentangles electronic from nuclear motion as a molecule passes through a conical intersection and opens its ring.",
+    "image": "img/contrib/furan-ring.jpg",
+    "citations": [
+      "S. Severino, K. M. Ziems, M. Reduzzi, A. Summers, H.-W. Sun, Y.-H. Chien, S. Gräfe, J. Biegert, “Attosecond core-level absorption spectroscopy reveals the electronic and nuclear dynamics of molecular ring opening”, Nature Photon. 18, 731–737 (2024)."
+    ]
+  },
+  {
+    "capability": "sources",
+    "title": "Quantum path interference in high-harmonic generation",
+    "text": "Direct observation of interference between the quantum trajectories that generate high harmonics — the electron's alternative paths, made visible.",
+    "image": "img/contrib/qpi-harmonics.jpg",
+    "citations": [
+      "A. Zaïr, M. Holler, A. Guandalini, F. Schapper, J. Biegert, L. Gallmann, U. Keller, A. Wyatt, A. Monmayrand, I. A. Walmsley, E. Cormier, T. Auguste, J. P. Caumes, P. Salieres, “Quantum path interferences in high-order harmonic generation”, Phys. Rev. Lett. 100, 143902 (2008)."
+    ]
+  },
+  {
+    "capability": "sources",
+    "title": "Isolated attosecond soft X-ray pulses in the water window",
+    "text": "Spatio-temporal isolation of a single attosecond burst in the water window, giving element-specific access to the carbon, nitrogen and oxygen edges.",
+    "image": "img/contrib/lighthouse.jpg",
+    "citations": [
+      "F. Silva, S. Teichmann, S. L. Cousin, J. Biegert, “Spatio-temporal isolation of attosecond soft X-ray pulses in the water window”, Nature Commun. 6, 6611 (2015)."
+    ]
+  },
+  {
+    "capability": "sources",
+    "title": "0.5 keV soft X-ray attosecond continua",
+    "text": "Extending coherent attosecond continua to half a kilo-electronvolt, deep into the water window and beyond.",
+    "image": "img/contrib/waterwindow-hhg.jpg",
+    "citations": [
+      "S. M. Teichmann, F. Silva, S. L. Cousin, M. Hemmer, J. Biegert, “0.5 keV soft X-ray attosecond continua”, Nature Commun. 7, 11493 (2016)."
+    ]
+  },
+  {
+    "capability": "sources",
+    "title": "Seven-micron ultrafast OPCPA",
+    "text": "Sub-millijoule pulses at 7 μm, pumped at 2 μm, pushing coherent ultrafast sources into the long-wave infrared.",
+    "image": "img/contrib/opcpa-7um.jpg",
+    "citations": [
+      "D. Sanchez, M. Hemmer, M. Baudisch, S. L. Cousin, K. Zawilski, P. Schunemann, O. Chalus, C. Simon-Boisson, J. Biegert, “7-micron, ultrafast, sub-mJ-level mid-IR OPCPA pumped at 2 micron”, Optica 3, 147 (2016)."
+    ]
+  },
+  {
+    "capability": "sources",
+    "title": "A seven-octave coherent light source",
+    "text": "A single coherent source spanning seven octaves — from the ultraviolet to the terahertz — brighter over a broad range than a synchrotron, giving one tunable backbone for ultrafast spectroscopy across the spectrum.",
+    "image": "img/contrib/seven-octave-brightness.jpg",
+    "citations": [
+      "U. Elu, L. Maidment, L. Vamos, F. Tani, D. Novoa, M. H. Frosz, V. Badikov, D. Badikov, V. Petrov, P. St. J. Russell, J. Biegert, “Seven-octave high-brightness and carrier-envelope-phase-stable light source”, Nature Photon. 15, 277 (2021)."
+    ]
+  },
+  {
+    "capability": "sources",
+    "title": "Shortest pulse of light ever generated",
+    "text": "A 19.2 attosecond soft X-ray pulse — below the atomic unit of time, the interval that defines an electron's orbit in hydrogen, and a demonstration of how far the group's source technology now reaches.",
+    "image": "img/contrib/shortest-pulse-19as.jpg",
+    "citations": [
+      "F. Ardana-Lamas, S. L. Cousin, J. Lignieres, J. Biegert, “Brilliant source of 19.2 attosecond soft X-ray pulses below the atomic unit of time.” Ultrafast Science 10, 34133 (2025)."
+    ]
+  }
+]

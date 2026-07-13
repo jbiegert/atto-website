@@ -1,0 +1,98 @@
+[
+  {
+    "key": "manybody",
+    "name": "Quantum many-body dynamics",
+    "lede": "We use attosecond science not as an electron-only stopwatch, but as a time-energy microscope for coupled quantum matter.",
+    "body": [
+      "We study how electrons and holes, nuclei and phonons, spin, topology and collective fluctuations exchange energy and information while a material or molecule changes its state.",
+      "The approach combines coherent attosecond soft-X-ray spectroscopy with new observables for fluctuations and correlations, so that both ordered motion and incoherent many-body dynamics become measurable.",
+      "The aim is a more complete experimental view of quantum dynamics — from the first femtoseconds of excitation to the emergence of phases, functionality, entropy production and dissipation."
+    ],
+    "stats": [
+      [
+        "coherent + incoherent",
+        "both measured"
+      ],
+      [
+        "charge + spin",
+        "coupled degrees"
+      ],
+      [
+        "entropy",
+        "fluctuations"
+      ]
+    ]
+  },
+  {
+    "key": "matter",
+    "name": "Quantum materials and phase transitions",
+    "lede": "Functionality in quantum matter often appears when degrees of freedom become inseparable. We use ultrafast and strong-field probes to follow this reorganization in real time.",
+    "body": [
+      "We investigate superconductors, charge-density-wave systems, bad metals, topological and valley materials, and other correlated phases where conventional quasiparticle pictures can fail.",
+      "High-harmonic spectroscopy provides a coherent strong-field view of material phases, while photon-statistical measurements add sensitivity to fluctuations, correlations and entropy-like information that ordinary intensity measurements miss.",
+      "The long-term goal is to connect microscopic non-equilibrium dynamics to macroscopic material properties: conductivity, topology, phase stability, energy flow and emergent order."
+    ],
+    "stats": [
+      [
+        "CDW / SC",
+        "phase transitions"
+      ],
+      [
+        "g²",
+        "fluctuation probe"
+      ],
+      [
+        "valley + topology",
+        "light control"
+      ]
+    ]
+  },
+  {
+    "key": "molecules",
+    "name": "Molecular quantum dynamics and imaging",
+    "lede": "Chemical change is a many-body process: charge rearrangement, nuclear motion and non-adiabatic coupling unfold together. We image these processes in time and, where possible, in real space.",
+    "body": [
+      "Attosecond core-level spectroscopy gives element-specific access to evolving electronic structure and to the nuclear motion encoded in transient spectral shifts and line shapes.",
+      "Single-electron quantum microscopy and reaction-microscope techniques complement this by resolving correlated electron-ion motion and structural change during bond breaking.",
+      "We use these methods to study non-adiabatic dynamics, conical intersections, molecular isomerization and the microscopic pathways by which light is converted into chemical motion."
+    ],
+    "stats": [
+      [
+        "600 as",
+        "temporal resolution"
+      ],
+      [
+        "7 pm",
+        "spatial resolution"
+      ],
+      [
+        "time + energy",
+        "molecular movies"
+      ]
+    ]
+  },
+  {
+    "key": "sources",
+    "name": "Light-field technology and nonlinear optics",
+    "lede": "The questions are only reachable because we build the sources ourselves: few-cycle lasers, OPCPA systems, waveform-controlled fields, high harmonics and attosecond soft-X-ray pulses.",
+    "body": [
+      "Our group pioneered CEP-preserving OPCPA and long-wavelength strong-field scaling, enabling attosecond spectroscopy, electron diffraction, high-harmonic spectroscopy and coherent soft-X-ray generation.",
+      "Current technology spans the UV to the mid-IR and far-IR: few-cycle and single-cycle sources, field-resolved coherent supercontinua, high-repetition-rate drivers and table-top soft-X-ray beamlines.",
+      "The 19.2 attosecond pulse record is one milestone in this technological lineage, but the broader purpose is to create the tools needed for the next generation of many-body and molecular dynamics experiments."
+    ],
+    "stats": [
+      [
+        "19.2 as",
+        "shortest pulse"
+      ],
+      [
+        "7 octaves",
+        "single coherent source"
+      ],
+      [
+        "UV → THz",
+        "tunable output"
+      ]
+    ]
+  }
+]

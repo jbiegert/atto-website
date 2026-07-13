@@ -1,0 +1,15 @@
+{
+  "groupName": "Attoscience and Ultrafast Optics",
+  "institution": "ICFO — The Institute of Photonic Sciences",
+  "location": "Castelldefels (Barcelona)",
+  "email": "jens.biegert@icfo.eu",
+  "scholarUrl": "https://scholar.google.com/citations?user=QKtLfo8AAAAJ&hl=en",
+  "heroImages": [
+    "img/hero_render.jpg",
+    "img/hero_attojet.jpg"
+  ],
+  "heroHeadline": "How matter reorganizes itself,",
+  "heroHeadlineSoft": "on the timescales where it actually happens.",
+  "heroSub": "How does energy flow through matter as it changes state? We answer that in quantum materials and molecules, developing the ultrafast and attosecond light our questions demand.",
+  "recordCitation": "F. Ardana-Lamas, S. L. Cousin, J. Lignieres, J. Biegert, “Brilliant source of 19.2 attosecond soft X-ray pulses below the atomic unit of time.” Ultrafast Science 10, 34133 (2025)."
+}

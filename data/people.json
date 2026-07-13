@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Dr. Lenard Vamos",
+    "role": "Research Fellow",
+    "degree": "PhD in Physics, Budapest University of Technology and Economics (HU)",
+    "email": "lenard.vamos@icfo.eu",
+    "photo": "img/people/lenard-vamos.jpg"
+  },
+  {
+    "name": "Dr. Fernando Ardana-Lamas",
+    "role": "Staff Researcher",
+    "degree": "PhD in Physics, EPFL Lausanne (CH)",
+    "email": "fernando.ardana@icfo.eu",
+    "photo": "img/people/fernando-ardana-lamas.jpg"
+  },
+  {
+    "name": "Dr. Igor Tyulnev",
+    "role": "Postdoctoral Researcher",
+    "degree": "PhD in Photonics, Universitat Politècnica de Catalunya (ES)",
+    "email": "igor.tyulnev@icfo.eu",
+    "photo": "img/people/igor-tyulnev.jpg"
+  },
+  {
+    "name": "Zoé de Bigault de Granrut",
+    "role": "PhD Student",
+    "degree": "MSc Condensed Matter Physics, Télécom Physique Strasbourg (FR)",
+    "email": "zoe.debigault@icfo.eu",
+    "photo": "img/people/zoe-de-bigault-de-granrut.jpg"
+  },
+  {
+    "name": "Gabin Fillié",
+    "role": "PhD Student",
+    "degree": "MSc Physical Engineering & Embedded Systems, ENSICAEN (FR)",
+    "email": "gabin.fillie@icfo.eu",
+    "photo": "img/people/gabin-fillie.jpg"
+  },
+  {
+    "name": "Joseph Lamarre",
+    "role": "PhD Student",
+    "degree": "MSc Science & Engineering Physics, Polytechnique Montréal (CA)",
+    "email": "",
+    "photo": "img/people/joseph-lamarre.jpg"
+  },
+  {
+    "name": "Samira Nooshnab",
+    "role": "PhD Student · AEI Fellow",
+    "degree": "MSc Electrical Engineering, University of Tabriz (IR)",
+    "email": "samira.nooshnab@icfo.eu",
+    "photo": "img/people/samira-nooshnab.jpg"
+  },
+  {
+    "name": "Julita Poborska",
+    "role": "PhD Student · AEI Fellow",
+    "degree": "MSc Technical Physics, Lodz University of Technology (PL)",
+    "email": "julita.poborska@icfo.eu",
+    "photo": "img/people/julita-poborska.jpg"
+  },
+  {
+    "name": "Pablo Rodriguez",
+    "role": "Student",
+    "degree": "MSc student in Photonics, Universitat Politècnica de Catalunya (ES)",
+    "email": "pablo.rodriguez@icfo.eu",
+    "photo": "img/people/pablo-rodriguez.jpg"
+  },
+  {
+    "name": "Eric Adjivon",
+    "role": "Student",
+    "degree": "",
+    "email": "eric.adjivon@icfo.eu",
+    "photo": "img/people/eric-adjivon.jpg"
+  },
+  {
+    "name": "Dr. Antonietta De Sio",
+    "role": "Visiting Scientist",
+    "degree": "PhD in Physics, University of Oldenburg (DE)",
+    "email": "antonietta.desio@icfo.eu",
+    "photo": "img/people/antonietta-de-sio.jpg"
+  },
+  {
+    "name": "Dr. Chaitanya Kumar Suddapalli",
+    "role": "Visiting Scientist",
+    "degree": "PhD in Photonics, Universitat Politècnica de Catalunya (ES)",
+    "email": "chaitanya.suddapalli@icfo.es",
+    "photo": "img/people/chaitanya-kumar-suddapalli.jpg"
+  }
+]

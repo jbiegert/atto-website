@@ -1,0 +1,113 @@
+{
+  "professorCount": 15,
+  "academia": [
+    [
+      "Christoph Hauri",
+      "EPFL Lausanne"
+    ],
+    [
+      "Daniele Faccio",
+      "Heriot-Watt University"
+    ],
+    [
+      "Matteo Clerici",
+      "University of Insubria, Como"
+    ],
+    [
+      "Carles Serrat",
+      "UPC Barcelona"
+    ],
+    [
+      "Tsuneto Kanai",
+      "Kyoto University"
+    ],
+    [
+      "Marcelo Ciappina",
+      "Guangdong Technion-Israel Institute of Technology"
+    ],
+    [
+      "Amelle Zaïr",
+      "King's College London"
+    ],
+    [
+      "Konstantinos Moutzouris",
+      "University of West Attica"
+    ],
+    [
+      "Antonio Picón",
+      "Universidad Autónoma de Madrid"
+    ],
+    [
+      "Ioachim Pupeza",
+      "RPTU Kaiserslautern-Landau"
+    ],
+    [
+      "Iker León",
+      "Universidade de Santiago de Compostela"
+    ],
+    [
+      "Xu Wang",
+      "Peking University"
+    ],
+    [
+      "Michäel Hemmer",
+      "JILA / CU Boulder"
+    ],
+    [
+      "Maurizio Reduzzi",
+      "Politecnico di Milano"
+    ],
+    [
+      "Nicola Di Palo",
+      "Politecnico di Milano"
+    ]
+  ],
+  "researchTeams": [
+    [
+      "Ugaitz Elu",
+      "Fritz-Haber-Institut Berlin"
+    ],
+    [
+      "Kasra Amini",
+      "ERC Group Leader, Max-Born-Institut Berlin"
+    ],
+    [
+      "Daniil Kartashov",
+      "Group Leader, Friedrich Schiller University Jena"
+    ]
+  ],
+  "industry": [
+    [
+      "Wouter Kornelis",
+      "Director, Swiss Re"
+    ],
+    [
+      "Bárbara Buades",
+      "Founder & CEO, MeetOptics"
+    ],
+    [
+      "Arne Heinrich",
+      "CTO, Pantec Biosolutions AG"
+    ],
+    [
+      "Seth Cousin",
+      "Director, EUVTech"
+    ],
+    [
+      "Daniel Sanchez",
+      "CEO, ConexCondal"
+    ],
+    [
+      "Tobias Steinle",
+      "CTO & Co-Founder, Stuttgart Instruments"
+    ],
+    [
+      "Thorsten Ergler",
+      "Siemens"
+    ],
+    [
+      "Olivier Chalus",
+      "Thales Optronique"
+    ]
+  ]
+}

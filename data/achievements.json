@@ -1,0 +1,68 @@
+[
+  {
+    "year": "2007",
+    "venue": "Nature Phys. 4, 565 (2007)",
+    "title": "The attoclock",
+    "text": "Developed attosecond angular streaking — the attoclock — opening a route to timing electron-wavepacket motion on its natural scale, and setting the metrological foundation for the group's later attosecond spectroscopies."
+  },
+  {
+    "year": "2009–2015",
+    "venue": "Opt. Express 17, 3587 (2009) · Phys. Rev. X 5, 021034 (2015)",
+    "title": "Mid-IR OPCPA and strong-field scaling",
+    "text": "Conceived and built the long-wavelength laser technology that made the group independent of external light sources, enabling ponderomotively scaled attoscience, electron diffraction, high-harmonic and soft X-ray generation."
+  },
+  {
+    "year": "2015–2016",
+    "venue": "Nat. Commun. 6, 6611 (2015) · Nat. Commun. 7, 11493 (2016)",
+    "title": "Isolated attosecond soft X-rays in the water window",
+    "text": "Directed development of attosecond continua reaching the carbon, nitrogen and oxygen core edges — element-specific access to the light elements that structure matter and molecules."
+  },
+  {
+    "year": "2016",
+    "venue": "Science 354, 308 (2016)",
+    "title": "The first molecular selfie",
+    "text": "Imaged a molecule with its own electrons — capturing di-ionized acetylene breaking apart in real space and time, at the resolution limit set by physics."
+  },
+  {
+    "year": "2021",
+    "venue": "Phys. Rev. X 11, 041060 (2021)",
+    "title": "Attosecond core-level spectroscopy in materials",
+    "text": "Pioneered attosecond X-ray absorption spectroscopy in a solid, resolving carrier dephasing and energy flow into specific lattice modes in real time, in graphite."
+  },
+  {
+    "year": "2022",
+    "venue": "Proc. Natl. Acad. Sci. 119, 2207766119 (2022)",
+    "title": "High-harmonic spectroscopy of a high-Tc superconductor",
+    "text": "Showed that high-harmonic spectroscopy distinguishes the electronic phases of YBCO, extending strong-field spectroscopy to quantum phase transitions in correlated matter."
+  },
+  {
+    "year": "2023",
+    "venue": "Nat. Commun. 14, 7407 (2023)",
+    "title": "Many-body response in strongly driven graphite",
+    "text": "Extended attosecond X-ray spectroscopy to strongly driven condensed-phase dynamics, quantifying correlated many-body response beyond a single-particle picture."
+  },
+  {
+    "year": "2024",
+    "venue": "Nature 628, 746 (2024)",
+    "title": "Controlling valley polarization through topology",
+    "text": "Valley polarization was thought to need a broken-symmetry crystal. A tailored light field broke that symmetry optically instead — steering valley and topology in bulk, centrosymmetric MoS₂ where it should not have been possible."
+  },
+  {
+    "year": "2024",
+    "venue": "Nat. Photon. 18, 731 (2024)",
+    "title": "Watching a molecule open its ring",
+    "text": "Disentangled electronic and vibrational dynamics across a conical intersection during a molecular ring-opening reaction, using attosecond core-level spectroscopy."
+  },
+  {
+    "year": "2024",
+    "venue": "PRX Quantum 5, 040319 (2024)",
+    "title": "The quantum-optical nature of high-harmonic generation",
+    "text": "Provided experimental evidence that harmonic emission carries photon-statistical information beyond the coherent field — the founding observation behind harmonic photon-statistics spectroscopy."
+  },
+  {
+    "year": "2025",
+    "venue": "Ultrafast Science 10, 34133 (2025)",
+    "title": "Shortest pulse of light ever generated",
+    "text": "A brilliant source of 19.2 attosecond soft X-ray pulses — the shortest ever generated, and shorter than the interval that defines an electron's orbit in hydrogen."
+  }
+]
