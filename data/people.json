@@ -21,6 +21,20 @@
     "photo": "img/people/igor-tyulnev.jpg"
   },
   {
+    "name": "Julita Poborska",
+    "role": "PhD Student · AEI Fellow",
+    "degree": "MSc Technical Physics, Lodz University of Technology (PL)",
+    "email": "julita.poborska@icfo.eu",
+    "photo": "img/people/julita-poborska.jpg"
+  },
+  {
+    "name": "Samira Nooshnab",
+    "role": "PhD Student · AEI Fellow",
+    "degree": "MSc Electrical Engineering, University of Tabriz (IR)",
+    "email": "samira.nooshnab@icfo.eu",
+    "photo": "img/people/samira-nooshnab.jpg"
+  },
+  {
     "name": "Zoé de Bigault de Granrut",
     "role": "PhD Student",
     "degree": "MSc Condensed Matter Physics, Télécom Physique Strasbourg (FR)",
@@ -38,22 +52,8 @@
     "name": "Joseph Lamarre",
     "role": "PhD Student",
     "degree": "MSc Science & Engineering Physics, Polytechnique Montréal (CA)",
-    "email": "",
+    "email": "jpseph.lamarre@icfo.eu",
     "photo": "img/people/joseph-lamarre.jpg"
-  },
-  {
-    "name": "Samira Nooshnab",
-    "role": "PhD Student · AEI Fellow",
-    "degree": "MSc Electrical Engineering, University of Tabriz (IR)",
-    "email": "samira.nooshnab@icfo.eu",
-    "photo": "img/people/samira-nooshnab.jpg"
-  },
-  {
-    "name": "Julita Poborska",
-    "role": "PhD Student · AEI Fellow",
-    "degree": "MSc Technical Physics, Lodz University of Technology (PL)",
-    "email": "julita.poborska@icfo.eu",
-    "photo": "img/people/julita-poborska.jpg"
   },
   {
     "name": "Pablo Rodriguez",
@@ -65,7 +65,7 @@
   {
     "name": "Eric Adjivon",
     "role": "Student",
-    "degree": "",
+    "degree": "Diploma in Automation and Vision,  Université de Strasbourg",
     "email": "eric.adjivon@icfo.eu",
     "photo": "img/people/eric-adjivon.jpg"
   },
