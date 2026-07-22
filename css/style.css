@@ -410,7 +410,6 @@ nav .navlinks a.here::after{content:'';display:block;height:2px;background:var(-
 
 /* Two-row header with institutional logos */
 .nav-top{display:flex;justify-content:space-between;align-items:center;gap:20px;}
-.brand a{text-decoration:none;color:inherit;display:flex;align-items:center;gap:10px;}
 .nav-logos{position:absolute;top:50%;right:0;transform:translateY(-50%);display:flex;align-items:center;gap:22px;}
 .nav-logos a{display:flex;align-items:center;opacity:.9;transition:opacity .2s;}
 .nav-logos a:hover{opacity:1;}
