@@ -383,7 +383,7 @@ nav .navlinks a.here::after{content:'';display:block;height:2px;background:var(-
 
 /* welcome — larger photo beside text */
 .welcome-grid{display:grid;grid-template-columns:1.5fr 1fr;gap:38px;align-items:center;position:relative;}
-.welcome-photo{margin:0 -34px 0 0;border-radius:6px;overflow:hidden;position:relative;z-index:2;border:1px solid var(--line);box-shadow:0 26px 70px rgba(0,0,0,.55);}
+.welcome-photo{margin:0 0px 0 0;border-radius:6px;overflow:hidden;position:relative;z-index:2;border:1px solid var(--line);box-shadow:0 26px 70px rgba(0,0,0,.55);}
 .welcome-photo img{width:100%;height:auto;display:block;filter:saturate(0.98) contrast(1.02);}
 .welcome-photo figcaption{position:absolute;left:0;right:0;bottom:0;padding:26px 16px 11px;font-family:'IBM Plex Mono',monospace;font-size:12px;color:#e9ecf1;background:linear-gradient(0deg,rgba(15,20,32,.72),rgba(15,20,32,0));}
 .welcome-text .slabel{margin-bottom:16px;}
