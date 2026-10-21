@@ -56,25 +56,11 @@
     "photo": "img/people/joseph-lamarre.jpg"
   },
   {
-    "name": "Pablo Rodriguez",
-    "role": "Student",
-    "degree": "MSc student in Photonics, Universitat Politècnica de Catalunya (ES)",
-    "email": "pablo.rodriguez@icfo.eu",
-    "photo": "img/people/pablo-rodriguez.jpg"
-  },
-  {
-    "name": "Eric Adjivon",
-    "role": "Student",
-    "degree": "Diploma in Automation and Vision,  Université de Strasbourg",
-    "email": "eric.adjivon@icfo.eu",
-    "photo": "img/people/eric-adjivon.jpg"
-  },
-  {
-    "name": "Dr. Antonietta De Sio",
-    "role": "Visiting Scientist",
-    "degree": "PhD in Physics, University of Oldenburg (DE)",
-    "email": "antonietta.desio@icfo.eu",
-    "photo": "img/people/antonietta-de-sio.jpg"
+    "name": "Hugo Greulich",
+    "role": "PhD Student",
+    "degree": "MSc student in Molecular and Biological Chemistry, EPFL - Ecole Polytechnique Fédérale de Lausanne (CH)",
+    "email": "hugo.greulich@icfo.eu",
+    "photo": "img/people/hugo-greulich.jpg"
   },
   {
     "name": "Dr. Chaitanya Kumar Suddapalli",
